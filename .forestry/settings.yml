@@ -5,9 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: OAS
-- type: heading
   label: Content
+- type: heading
+  label: OAS
 - type: directory
   path: docs
   label: Docs
